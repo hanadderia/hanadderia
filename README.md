@@ -2,7 +2,7 @@
 
 ### A passionate full-stack developer, team lead, tech enthusiast
 
-- 🔭 Currently working on _**School ERP System**_
+- 🔭 Currently working on _________________
 - 👯 Let me know if you want to collaborate
 - 🌝 Open to collaborate on side projects
 - 💬 Ask about .NET, React, Microservices, RDBMS
