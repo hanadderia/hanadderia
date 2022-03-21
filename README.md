@@ -2,14 +2,15 @@
 
 ### A passionate full-stack developer, team lead, tech enthusiast
 
-- 🔭 Currently working on _________________
+- 🔭 Currently working from Home
 - 👯 Let me know if you want to collaborate
 - 🌝 Open to collaborate on side projects
 - 💬 Ask about .NET, React, Microservices, RDBMS
 - 📫 How to reach me hanadderia@gmail.com
 - 😁 Father of a Beautiful 🐈.
 - ✨ In love with working _from Home_
-- 👀 Want to see something I [Built](https://drive.google.com/drive/folders/1a7UFjC2mbVTogoWrBML_jaKa_MVTNJTv)
+- 👀 ![](https://komarev.com/ghpvc/?username=your-github-username)
+- 
 
 ## Me in a nutshell 😌
 
@@ -21,5 +22,3 @@
 - self-motivated and strong believer in Software Craftsmanship.
 - Adaptable to new technologies when required.
 - Really enjoying mentoring developers and helping the team members build their skills.
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
