@@ -23,3 +23,7 @@
 - self-motivated and strong believer in Software Craftsmanship.
 - Adaptable to new technologies when required.
 - Really enjoying mentoring developers and helping the team members build their skills.
+
+
+## Status 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanadderia&theme=dark&background=000000)](https://git.io/streak-stats)
