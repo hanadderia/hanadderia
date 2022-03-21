@@ -10,7 +10,6 @@
 - 😁 Father of a Beautiful 🐈.
 - ✨ In love with working _from Home_
 - 👀 ![](https://komarev.com/ghpvc/?username=your-github-username)
-- 
 
 ## Me in a nutshell 😌
 
@@ -22,3 +21,5 @@
 - self-motivated and strong believer in Software Craftsmanship.
 - Adaptable to new technologies when required.
 - Really enjoying mentoring developers and helping the team members build their skills.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
