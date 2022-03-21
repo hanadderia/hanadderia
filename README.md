@@ -9,7 +9,7 @@
 - 📫 How to reach me hanadderia@gmail.com
 - 😁 Father of a Beautiful 🐈.
 - ✨ In love with working _from Home_
-- 👀 ![](https://komarev.com/ghpvc/?username=hanadderia)
+- 👀 ![](https://komarev.com/ghpvc/?username=antonkomarev&color=blueviolet)
 
 ## Me in a nutshell 😌
 
