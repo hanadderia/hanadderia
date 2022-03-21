@@ -11,7 +11,7 @@
 - ✨ In love with working _from Home_
 
 
-## ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge&label=Profile+Views+👀)
+### ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge&label=Profile+Views+👀)
 
 ## Me in a nutshell 😌
 
