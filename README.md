@@ -44,7 +44,3 @@ Helios is built to simplify operations, enforce real accounting discipline, enab
 ## Let’s Connect
 
 📫 [hanadderia@gmail.com](mailto:hanadderia@gmail.com)
-
----
-
-If you want, I can make it slightly sharper and more “World Bank review ready” while still keeping GitHub-friendly tone.
