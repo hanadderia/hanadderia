@@ -33,7 +33,7 @@ Helios is built to simplify operations, enforce real accounting discipline, enab
 
 ## About Me
 
-* Cloud experience: Azure & AWS
+* Cloud experience: Azure & OCI
 * Strong background in RDBMS and transactional systems
 * Advocate of BDD / TDD practices
 * Passionate about mentoring and growing strong engineering teams
